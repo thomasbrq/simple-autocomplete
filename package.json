@@ -1,0 +1,26 @@
+{
+  "name": "@thomasbrq/simple-autocomplete",
+  "version": "1.0.0",
+  "description": "Simple autocomplete Javascript library",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "simple",
+    "autocomplete",
+    "autocompletejs",
+    "lightweight",
+    "fast",
+    "blazing",
+    "easy"
+  ],
+  "author": "ThomasBrq",
+  "license": "ISC"
+}
